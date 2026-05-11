@@ -308,14 +308,15 @@ llm = ChatAnthropic(model="claude-sonnet-4-5")
 ```
 "# multi-agent-research-system" 
 
-##output
+## output
 <img width="1920" height="1020" alt="output1" src="https://github.com/user-attachments/assets/1510cefb-5aec-44e2-8660-e1008e0ad68e" />
 <img width="1809" height="512" alt="Screenshot 2026-03-20 115956" src="https://github.com/user-attachments/assets/419cc242-9743-4bbe-b0db-422ecb3ad485" />
 
 we should see two endpoints — GET /health and POST /research and accordingly we can try it out...
 
-#Output of ML FLOW
+## Output of ML FLOW
 <img width="1920" height="1020" alt="Screenshot 2026-03-20 120420" src="https://github.com/user-attachments/assets/66ff8fcf-a852-493c-888b-126cc2d3cac8" />
 
 
-
+## Author
+   Pavithra Nagineni
