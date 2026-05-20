@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/609220951495111430/cdc6c7df1b7c476cacd8cc6ad8e0f962/artifacts
+deleted_time: 1773988457168
+end_time: 1773987174189
+entry_point_name: ''
+experiment_id: '609220951495111430'
+lifecycle_stage: deleted
+run_id: cdc6c7df1b7c476cacd8cc6ad8e0f962
+run_name: research_The_impact_of_AI_on_healthcare_in_2025
+run_uuid: cdc6c7df1b7c476cacd8cc6ad8e0f962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773987174038
+status: 4
+tags: []
+user_id: pavit

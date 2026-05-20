@@ -1,0 +1,1 @@
+'Input to ChatPromptTemplate is missing variables {\'\\n  "is_sufficient"\'}.  Expected: [\'\\n  "is_sufficient"\', \'findings\', \'topic\'] Received: [\'topic\', \'findings\']\nNote: if you intended {\n  "is_sufficient"} to be part of the string and
