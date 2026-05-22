@@ -314,6 +314,12 @@ llm = ChatAnthropic(model="claude-sonnet-4-5")
 Post/Research
 <img width="1920" height="1020" alt="Screenshot 2026-05-22 120149" src="https://github.com/user-attachments/assets/21874da4-05d7-49ce-ba77-721fa6ef8dcc" />
 
+Response
+<img width="1920" height="1020" alt="Screenshot 2026-05-22 140720" src="https://github.com/user-attachments/assets/87060dab-8e59-4a2d-a7f8-54cdfe8b0569" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-05-22 140739" src="https://github.com/user-attachments/assets/2f79fa58-bf19-4cb8-b2be-14471e65e19d" />
+
+
 ## Author
    Pavithra Nagineni
 
