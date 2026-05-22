@@ -307,3 +307,14 @@ from langchain_anthropic import ChatAnthropic
 llm = ChatAnthropic(model="claude-sonnet-4-5")
 ```
 "# multi-agent-research-system" 
+
+## Output
+Post/Research
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2abec41b-9616-47ff-ad6d-4413404d2603" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/eda7bb15-5727-4dd5-aaa0-2168843a7133" />
+
+
+## Author
+   Pavithra Nagineni
+
