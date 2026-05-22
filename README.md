@@ -309,10 +309,10 @@ llm = ChatAnthropic(model="claude-sonnet-4-5")
 "# multi-agent-research-system" 
 
 ## Output
-Post/Research
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4e298d67-0789-422f-8acf-44b8f257bbef" />
+<img width="1920" height="1020" alt="Screenshot 2026-05-22 115736" src="https://github.com/user-attachments/assets/3f3ccb8e-1fd6-4bc9-9f2c-4e1403de0258" />
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7d46e83e-333e-4131-b1af-d0211222aaea" />
+Post/Research
+<img width="1920" height="1020" alt="Screenshot 2026-05-22 120149" src="https://github.com/user-attachments/assets/21874da4-05d7-49ce-ba77-721fa6ef8dcc" />
 
 ## Author
    Pavithra Nagineni
